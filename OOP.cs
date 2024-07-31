@@ -32,6 +32,7 @@ namespace ConsoleApp2
             //m4();
             //m5();
 
+
             //var speaker = new Speaker { Name = "Gaurav Kumar Arora" };//11
             //var isTrue = speaker is Speaker;
             //Console.WriteLine("speaker is of Speaker type:{0}", isTrue);
